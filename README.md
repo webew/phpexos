@@ -5,3 +5,11 @@ Appliquez un style différent pour la ville de Pau...<br>
 
 # Tri par villes
 Triez le tableau par nom de ville (croissant).
+
+# Avec des classes
+Créez une structure pour les données (une classe Ville ?).
+Transformez le tableau en un tableau d'objets.
+Adaptez l'affichage en HTML.
+
+# Utiliser un plugin pour les tables
+Affichez votre tableau en utilisant [Bootstrap Table](https://bootstrap-table.com/).
